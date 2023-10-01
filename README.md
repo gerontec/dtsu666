@@ -6,42 +6,52 @@ Just call read_register.py to read all values from your DTSU666 connected with R
 Line line voltage (uab)
 V
 float
+
 8194
 Line line voltage (ubc)
 V
 float
+
 8196
 Line line voltage (uca)
 V
 float
+
 8198
 Phase phase voltage (ua)
 V
 float
+
 8200
 Phase phase voltage (ub)
 V
 float
+
 8202
 Phase phase voltage (uc)
 V
 float
+
 8204
 The data of three phase current (ia)
 A
 float
+
 8206
 The data of three phase current (ib)
 A
 float
+
 8208
 The data of three phase current (ic)
 A
 float
+
 8210
 Conjunction active power
 W
 float
+
 8212
 A phase active power (pa)
 W
